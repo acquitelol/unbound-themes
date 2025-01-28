@@ -1,0 +1,14 @@
+{
+    "name": "Rosie Purple",
+    "id": "rosie.purple",
+    "main": "bundle.json",
+    "type": "theme",
+    "description": "meow meow but in purple",
+    "version": "3.0.0",
+    "authors": [
+        {
+            "name": "Rosie<3",
+            "id": "581573474296791211"
+        }
+    ]
+}

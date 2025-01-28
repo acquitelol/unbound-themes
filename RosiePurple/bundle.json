@@ -1,0 +1,326 @@
+{
+    "semantic": {
+        "CHAT_BACKGROUND": {
+            "type": "raw",
+            "value": "PRIMARY_600"
+        },
+
+        "HEADER_PRIMARY": {
+            "type": "color",
+            "value": "#cb92e7"
+        },
+
+        "HEADER_SECONDARY": {
+            "type": "raw",
+            "value": "PRIMARY_300"
+        },
+
+        "TEXT_NORMAL": {
+            "type": "color",
+            "value": "#fbfbfb"
+        },
+
+        "TEXT_MUTED": {
+            "type": "color",
+            "value": "#d092e7"
+        },
+
+        "INTERACTIVE_NORMAL": {
+            "type": "raw",
+            "value": "PRIMARY_300"
+        },
+
+        "INTERACTIVE_HOVER": {
+            "type": "color",
+            "value": "#dddcde"
+        },
+
+        "INTERACTIVE_ACTIVE": {
+            "type": "raw",
+            "value": "PRIMARY_200"
+        },
+
+        "INTERACTIVE_MUTED": {
+            "type": "color",
+            "value": "#ac8abf"
+        },
+
+        "BACKGROUND_PRIMARY": {
+            "type": "raw",
+            "value": "PRIMARY_600"
+        },
+
+        "CARD_PRIMARY_BG": {
+            "type": "raw",
+            "value": "PRIMARY_600"
+        },
+
+        "BG_BASE_PRIMARY": {
+            "type": "raw",
+            "value": "PRIMARY_600"
+        },
+
+        "BACKGROUND_SECONDARY": {
+            "type": "color",
+            "value": "#2f2833"
+        },
+
+        "CARD_SECONDARY_BG": {
+            "type": "color",
+            "value": "#2f2833"
+        },
+
+        "BG_BASE_SECONDARY": {
+            "type": "color",
+            "value": "#1f1b22"
+        },
+
+        "BACKGROUND_SECONDARY_ALT": {
+            "type": "color",
+            "value": "#1d191f"
+        },
+
+        "BACKGROUND_TERTIARY": {
+            "type": "color",
+            "value": "#252028"
+        },
+
+        "BG_BASE_TERTIARY": {
+            "type": "color",
+            "value": "#252028"
+        },
+
+        "BACKGROUND_ACCENT": {
+            "type": "color",
+            "value": "#e5b5ff"
+        },
+
+        "BACKGROUND_FLOATING": {
+            "type": "color",
+            "value": "#262229"
+        },
+
+        "BACKGROUND_MOBILE_PRIMARY": {
+            "type": "color",
+            "value": "#1d1820"
+        },
+
+        "BACKGROUND_MOBILE_SECONDARY": {
+            "type": "color",
+            "value": "#29232b"
+        },
+
+        "BACKGROUND_NESTED_FLOATING": {
+            "type": "color",
+            "value": "#2a242d"
+        },
+
+        "BACKGROUND_MESSAGE_HOVER": {
+            "type": "raw",
+            "value": "PRIMARY_200",
+            "opacity": 0.02
+        },
+
+        "BACKGROUND_MODIFIER_HOVER": {
+            "type": "raw",
+            "value": "PRIMARY_200",
+            "opacity": 0.02
+        },
+
+        "BACKGROUND_MODIFIER_ACTIVE": {
+            "type": "raw",
+            "value": "PRIMARY_200",
+            "opacity": 0.08
+        },
+
+        "BACKGROUND_MODIFIER_SELECTED": {
+            "type": "raw",
+            "value": "PRIMARY_200",
+            "opacity": 0.04
+        },
+
+        "BACKGROUND_MODIFIER_ACCENT": {
+            "type": "color",
+            "value": "rgb(52, 46, 56)",
+            "opacity": 1
+        },
+
+        "BACKGROUND_MENTIONED": {
+            "type": "color",
+            "value": "#d563ff",
+            "opacity": 0.37
+        },
+
+        "BACKGROUND_MENTIONED_HOVER": {
+            "type": "color",
+            "value": "rgb(228, 171, 255)",
+            "opacity": 0.5
+        },
+
+        "SCROLLBAR_THIN_THUMB": {
+            "type": "color",
+            "value": "transparent"
+        },
+
+        "SCROLLBAR_THIN_TRACK": {
+            "type": "color",
+            "value": "transparent"
+        },
+
+        "SCROLLBAR_AUTO_THUMB": {
+            "type": "color",
+            "value": "transparent"
+        },
+
+        "SCROLLBAR_AUTO_TRACK": {
+            "type": "color",
+            "value": "#000",
+            "opacity": 0.1
+        },
+
+        "CHANNELTEXTAREA_BACKGROUND": {
+            "type": "color",
+            "value": "#111"
+        },
+
+        "REDESIGN_ACTIVITY_CARD_BACKGROUND": {
+            "type": "color",
+            "value": "#2d2730"
+        },
+
+        "REDESIGN_ACTIVITY_CARD_BACKGROUND_PRESSED": {
+            "type": "color",
+            "value": "#7c6d8c"
+        },
+
+        "CHANNELS_DEFAULT": {
+            "type": "color",
+            "value": "#b6b6b6"
+        },
+
+        "TEXT_LINK": {
+            "type": "color",
+            "value": "#debaff"
+        },
+
+        "KEYBOARD": {
+            "type": "raw",
+            "value": "PRIMARY_800"
+        }
+    },
+
+    "raw": {
+        "PRIMARY_100": "#ffffff",
+        "PRIMARY_200": "#ffffff",
+        "PRIMARY_300": "#fffeff",
+        "PRIMARY_330": "#dcc6e7",
+        "PRIMARY_360": "#fcfdfc",
+        "PRIMARY_400": "#d2bee3",
+        "PRIMARY_460": "#443649",
+        "PRIMARY_500": "#bf8ce6",
+        "PRIMARY_530": "#ab6ed4",
+        "PRIMARY_600": "#28232b",
+        "PRIMARY_630": "#2d2730",
+        "PRIMARY_645": "#27222a",
+        "PRIMARY_660": "#18141a",
+        "PRIMARY_700": "#18141a",
+        "PRIMARY_800": "#242027",
+        "BRAND_260": "#db9eff",
+        "BRAND_300": "#d198f5",
+        "BRAND_330": "#d193ed",
+        "BRAND_345": "#bf90e8",
+        "BRAND_360": "#c48ee6",
+        "BRAND_400": "#b888db",
+        "BRAND_430": "#bd83d4",
+        "BRAND_460": "#b37ecc",
+        "BRAND_500": "#ab78c2",
+        "BRAND_530": "#9f73ba",
+        "BRAND_560": "#996fb3",
+        "BRAND_600": "#9368a8",
+        "BRAND_630": "#8d64a1",
+        "BRAND_660": "#7f5f99",
+        "BRAND_700": "#80598f",
+        "RED_260": "#db9eff",
+        "RED_300": "#d198f5",
+        "RED_330": "#d193ed",
+        "RED_345": "#bf90e8",
+        "RED_360": "#c48ee6",
+        "RED_400": "#b888db",
+        "RED_430": "#bd83d4",
+        "RED_460": "#b37ecc",
+        "RED_500": "#ab78c2",
+        "RED_530": "#9f73ba",
+        "RED_560": "#996fb3",
+        "RED_600": "#9368a8",
+        "RED_630": "#8d64a1",
+        "RED_660": "#7f5f99",
+        "RED_700": "#80598f",
+        "ORANGE_260": "#db9eff",
+        "ORANGE_300": "#d198f5",
+        "ORANGE_330": "#d193ed",
+        "ORANGE_345": "#bf90e8",
+        "ORANGE_360": "#c48ee6",
+        "ORANGE_400": "#b888db",
+        "ORANGE_430": "#bd83d4",
+        "ORANGE_460": "#b37ecc",
+        "ORANGE_500": "#ab78c2",
+        "ORANGE_530": "#9f73ba",
+        "ORANGE_560": "#996fb3",
+        "ORANGE_600": "#9368a8",
+        "ORANGE_630": "#8d64a1",
+        "ORANGE_660": "#7f5f99",
+        "ORANGE_700": "#80598f",
+        "YELLOW_260": "#db9eff",
+        "YELLOW_300": "#d198f5",
+        "YELLOW_330": "#d193ed",
+        "YELLOW_345": "#bf90e8",
+        "YELLOW_360": "#c48ee6",
+        "YELLOW_400": "#b888db",
+        "YELLOW_430": "#bd83d4",
+        "YELLOW_460": "#b37ecc",
+        "YELLOW_500": "#ab78c2",
+        "YELLOW_530": "#9f73ba",
+        "YELLOW_560": "#996fb3",
+        "YELLOW_600": "#9368a8",
+        "YELLOW_630": "#8d64a1",
+        "YELLOW_660": "#7f5f99",
+        "YELLOW_700": "#80598f",
+        "GREEN_260": "#db9eff",
+        "GREEN_300": "#d198f5",
+        "GREEN_330": "#d193ed",
+        "GREEN_345": "#bf90e8",
+        "GREEN_360": "#c48ee6",
+        "GREEN_400": "#b888db",
+        "GREEN_430": "#bd83d4",
+        "GREEN_460": "#b37ecc",
+        "GREEN_500": "#ab78c2",
+        "GREEN_530": "#9f73ba",
+        "GREEN_560": "#996fb3",
+        "GREEN_600": "#9368a8",
+        "GREEN_630": "#8d64a1",
+        "GREEN_660": "#7f5f99",
+        "GREEN_700": "#80598f",
+        "BLUE_260": "#db9eff",
+        "BLUE_300": "#d198f5",
+        "BLUE_330": "#d193ed",
+        "BLUE_345": "#bf90e8",
+        "BLUE_360": "#c48ee6",
+        "BLUE_400": "#b888db",
+        "BLUE_430": "#bd83d4",
+        "BLUE_460": "#b37ecc",
+        "BLUE_500": "#ab78c2",
+        "BLUE_530": "#9f73ba",
+        "BLUE_560": "#996fb3",
+        "BLUE_600": "#9368a8",
+        "BLUE_630": "#8d64a1",
+        "BLUE_660": "#7f5f99",
+        "BLUE_700": "#80598f"
+    },
+
+    "type": "dark",
+    "background": {
+        "blur": 0.1,
+        "url": "https://media.discordapp.net/attachments/1011346757214543875/1206653712555048980/rosiepurple.png?ex=65dccad7&is=65ca55d7&hm=fdf69f76e2132c8f5b426c29604e07dc5b2949c7984f8798c8fee3a68fa95cbd",
+        "opacity": 0
+    }
+}
